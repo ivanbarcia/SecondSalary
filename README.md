@@ -1,0 +1,3 @@
+# SecondSalary
+
+Django project
